@@ -1,0 +1,42 @@
+{
+  "name": "@lethanh9398/react-native-minimizer",
+  "title": "React Native Minimizer",
+  "version": "1.0.0",
+  "description": "Minimize app for React Native on Android And iOS.",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "react-native-minimizer.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lethanh9398/react-native-minimizer.git",
+    "baseUrl": "https://github.com/lethanh9398/react-native-minimizer"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "minimize",
+    "background",
+    "close",
+    "android",
+    "ios"
+  ],
+  "author": {
+    "name": "Le Van Thanh",
+    "email": "lethanh9398@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  }
+}
