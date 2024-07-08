@@ -1,7 +1,7 @@
 {
   "name": "@lethanh9398/react-native-minimizer",
   "title": "React Native Minimizer",
-  "version": "0.1.0",
+  "version": "0.2.0-snapshot",
   "description": "Minimize app for React Native on Android And iOS.",
   "main": "index.js",
   "files": [
